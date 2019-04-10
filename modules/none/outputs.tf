@@ -1,0 +1,10 @@
+output "api" {
+  value = "${var.api}"
+}
+
+output "name" {
+  value = "${var.name}"
+}
+
+# ---
+
